@@ -1,0 +1,8 @@
+# 内容：Signal
+#PROCESS-NAME,Signal.exe
+DOMAIN-SUFFIX,updates2.signal.org
+DOMAIN-SUFFIX,cdn.signal.org
+DOMAIN-SUFFIX,cdn2.signal.org
+DOMAIN-SUFFIX,storage.signal.org
+DOMAIN-SUFFIX,chat.signal.org
+DOMAIN-SUFFIX,ud-chat.signal.org
