@@ -109,3 +109,4 @@ IP-CIDR,213.239.207.143/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
