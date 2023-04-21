@@ -2,7 +2,7 @@
 # 数量：112条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
+# DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,alpharatio.cc
